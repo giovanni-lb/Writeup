@@ -90,4 +90,6 @@ Then we retrieve a file, but not a valid .jpg file as we wanted, but we could se
 ` $ strings flag_sur_fond_de_soleil_couchantFinal.jpg| grep dvCTF{`
 
 and we found the flag:
+:::success
 dvCTF{t1m3_i5_n0t_r4nd0m_en0ugh}
+:::
